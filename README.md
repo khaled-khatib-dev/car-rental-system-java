@@ -35,6 +35,3 @@ This project was developed as part of the CS102 (Computer Programming II) course
 1. Open the project using NetBeans IDE
 2. Run `CarRentalApp.java`
 3. Make sure the `.txt` files are inside the project directory
-
-## Screenshots
-![Main Menu](Main%20Menu.jpeg)
