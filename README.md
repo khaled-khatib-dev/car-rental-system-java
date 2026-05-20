@@ -2,6 +2,8 @@
 
 A console-based Car Rental System developed in Java using Object-Oriented Programming (OOP) principles and file handling.
 
+This project was developed as part of the CS102 (Computer Programming II) course at Prince Sultan University.
+
 ## Features
 - Customer booking system
 - Vehicle management
@@ -16,12 +18,18 @@ A console-based Car Rental System developed in Java using Object-Oriented Progra
 - Java Collections Framework (JCF)
 - Object-Oriented Programming (OOP)
 - File Handling
-  
+
+## OOP Concepts Applied
+- Encapsulation
+- Inheritance
+- Polymorphism
+- Abstraction
+
 ## Team Members
 - Khaled Khatib
-- Abdulrahman Elmutawi 
+- Abdulrahman Elmutawi
 - Suhail Abuobaid
-  
+
 ## Project Structure
 - `src/` → Java source code
 - `nbproject/` → NetBeans project configuration
