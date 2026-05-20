@@ -19,12 +19,6 @@ This project was developed as part of the CS102 (Computer Programming II) course
 - Object-Oriented Programming (OOP)
 - File Handling
 
-## OOP Concepts Applied
-- Encapsulation
-- Inheritance
-- Polymorphism
-- Abstraction
-
 ## Team Members
 - Khaled Khatib
 - Abdulrahman Elmutawi
