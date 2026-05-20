@@ -1,0 +1,7 @@
+CUSTOMER|Khaled Khatib|C101|0555555555|khaled@gmail.com|2005-01-01|Riyadh|DL10234|Private|2028-01-01
+CUSTOMER|Ahmed Ali|C102|0551111111|ahmed@gmail.com|2004-03-12|Jeddah|DL54321|Private|2027-09-10
+CUSTOMER|Sarah Mohammed|C103|0552222222|sarah@gmail.com|2003-11-25|Dammam|DL67890|Private|2029-04-18
+CUSTOMER|Faisal Abdullah|C104|0553333333|faisal@gmail.com|2002-07-08|Riyadh|DL11223|Private|2026-12-01
+CUSTOMER|Noura Salem|C105|0554444444|noura@gmail.com|2004-05-14|Khobar|DL99887|Private|2028-06-22
+STAFF|S201|Mohammed
+STAFF|S202|Abdullah

@@ -1,0 +1,7 @@
+EC1|ABC123|Economy|4|Automatic|Gas|120|Available|2026-05-20,2026-05-21,2026-05-22
+EC2|BCD234|Economy|4|Manual|Gas|100|Available|2026-05-25,2026-05-26
+SUV1|XYZ789|SUV|7|Automatic|Hybrid|250|Rented|2026-06-01,2026-06-02
+SUV2|JKL456|SUV|7|Automatic|Gas|280|Available|2026-06-10,2026-06-11
+LX1|LUX555|Luxury|4|Automatic|Gas|500|Available|2026-07-01,2026-07-02
+LX2|VIP999|Luxury|4|Automatic|Hybrid|650|Under Maintenance|2026-07-05
+EL1|ELE111|Electric|5|Automatic|Electric|300|Available|2026-08-01,2026-08-02
